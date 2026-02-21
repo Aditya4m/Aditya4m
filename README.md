@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Aditya4m
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Kali Linux
-- 💞️ I’m looking to collaborate on Free Fire
-- 📫 How to reach me https://www.instagram.com/x_mr._.adi_x/
+- 👀 I’m interested in Designing
+- 🌱 I’m currently learning Kali
+- 💞️ I’m looking to collaborate on Web Designing
+- 📫 How to reach me https://www.instagram.com/ok._.adii/
 
 <!---
 Aditya4m/Aditya4m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
